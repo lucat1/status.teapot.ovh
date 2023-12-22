@@ -86,7 +86,7 @@ sites:
     - samuelemusiani
 
   - name: "Site: dex.teapot.ovh"
-    url: https://dex.teapot.ovh
+    url: https://dex.teapot.ovh/auth/ldap/login
     assignees:
     - samuelemusiani
 
