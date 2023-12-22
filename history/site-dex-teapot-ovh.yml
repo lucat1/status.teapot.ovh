@@ -1,7 +1,7 @@
-url: https://dex.teapot.ovh
+url: https://dex.teapot.ovh/auth/ldap/login
 status: down
-code: 404
-responseTime: 487
-lastUpdated: 2023-12-22T09:40:48.887Z
+code: 400
+responseTime: 843
+lastUpdated: 2023-12-22T10:15:10.691Z
 startTime: 2023-12-22T09:40:48.146Z
 generator: Upptime <https://github.com/upptime/upptime>
