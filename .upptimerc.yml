@@ -16,6 +16,90 @@ sites:
     assignees:
     - samuelemusiani
 
+  - name: "Host: fern"
+    check: "tcp-ping"
+    url: fern.teapot.ovh
+    port: 2222
+    assignees:
+    - lucat1
+
+  - name: "Mail: honey SMTP"
+    check: "tcp-ping"
+    url: mail.teapot.ovh
+    port: 25
+    assignees:
+    - lucat1
+
+  - name: "Mail: honey Submission"
+    check: "tcp-ping"
+    url: mail.teapot.ovh
+    port: 587
+    assignees:
+    - lucat1
+
+  - name: "Site: teapot.ovh"
+    url: https://teapot.ovh
+    assignees:
+    - lucat1
+
+  - name: "Site: teapot.ovh (personal site)"
+    url: https://teapot.ovh/~luca
+    assignees:
+    - lucat1
+
+  - name: "Matrix: server"
+    url: https://matrix.teapot.ovh
+    assignees:
+    - lucat1
+    - samuelemusiani
+
+  - name: "Matrix: element"
+    url: https://element.teapot.ovh
+    assignees:
+    - lucat1
+    - samuelemusiani
+
+  - name: "Matrix: sliding-sync"
+    url: http://sliding.teapot.ovh
+    assignees:
+    - lucat1
+    - samuelemusiani
+
+  - name: "Site: music.teapot.ovh (subsonic)"
+    url: https://music.teapot.ovh
+    assignees:
+    - lucat1
+
+  - name: "Site: tempo.teapot.ovh (music)"
+    url: https://tempo.teapot.ovh/tempo/server
+    assignees:
+    - lucat1
+
+  - name: "Site: photos.teapot.ovh"
+    url: https://photos.teapot.ovh
+    assignees:
+    - samuelemusiani
+
+  - name: "Site: upload.teapot.ovh"
+    url: https://upload.teapot.ovh
+    assignees:
+    - samuelemusiani
+
+  - name: "Site: dex.teapot.ovh"
+    url: https://dex.teapot.ovh
+    assignees:
+    - samuelemusiani
+
+  - name: "Site: grafana.teapot.ovh"
+    url: https://grafana.teapot.ovh
+    assignees:
+    - lucat1
+
+  - name: "Site: loki.teapot.ovh"
+    url: https://loki.teapot.ovh
+    assignees:
+    - lucat1
+
   - name: "LDAP: honey STARTTLS"
     check: "tcp-ping"
     url: ldap1.teapot.ovh
@@ -43,20 +127,6 @@ sites:
     port: 636
     assignees:
     - samuelemusiani
-
-  - name: "Mail: honey SMTP"
-    check: "tcp-ping"
-    url: mail.teapot.ovh
-    port: 25
-    assignees:
-    - lucat1
-
-  - name: "Mail: honey Submission"
-    check: "tcp-ping"
-    url: mail.teapot.ovh
-    port: 587
-    assignees:
-    - lucat1
 
 assignees:
   - lucat1
