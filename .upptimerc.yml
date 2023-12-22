@@ -60,7 +60,9 @@ sites:
     - samuelemusiani
 
   - name: "Matrix: sliding-sync"
-    url: http://sliding.teapot.ovh
+    url: https://sliding.teapot.ovh
+    expectedStatusCodes:
+      - 400
     assignees:
     - lucat1
     - samuelemusiani
