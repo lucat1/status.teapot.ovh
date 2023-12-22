@@ -97,6 +97,8 @@ sites:
 
   - name: "Site: loki.teapot.ovh"
     url: https://loki.teapot.ovh
+    headers:
+    - "Authorization: Baisc $LOKI_CREDENTIALS"
     assignees:
     - lucat1
 
@@ -127,10 +129,6 @@ sites:
     port: 636
     assignees:
     - samuelemusiani
-
-assignees:
-  - lucat1
-  - samuelemusiani
 
 status-website:
   cname: status.teapot.ovh
