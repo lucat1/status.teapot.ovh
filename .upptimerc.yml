@@ -11,6 +11,10 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
+assignees:
+  - lucat1
+  - samuelemusiani
+
 status-website:
   cname: status.teapot.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
