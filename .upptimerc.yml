@@ -87,6 +87,8 @@ sites:
 
   - name: "Site: dex.teapot.ovh"
     url: https://dex.teapot.ovh/auth/ldap/login
+    expectedStatusCodes:
+      - 400
     assignees:
     - samuelemusiani
 
