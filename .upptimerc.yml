@@ -2,47 +2,61 @@ owner: lucat1
 repo: status.teapot.ovh
 
 sites:
-  - name: Host: honey
+  - name: "Host: honey"
     check: "tcp-ping"
     url: honey.teapot.ovh
     port: 2222
     assignees:
     - lucat1
 
-  - name: Host: kepler
+  - name: "Host: kepler"
     check: "tcp-ping"
     url: kepler.teapot.ovh
     port: 2222
     assignees:
     - samuelemusiani
 
-  - name: LDAP: honey STARTTLS (ldap1.teapot.ovh)
+  - name: "LDAP: honey STARTTLS"
     check: "tcp-ping"
     url: ldap1.teapot.ovh
     port: 389
     assignees:
     - lucat1
 
-  - name: LDAP: honey TLS (ldap1.teapot.ovh)
+  - name: "LDAP: honey TLS"
     check: "tcp-ping"
     url: ldap1.teapot.ovh
     port: 636
     assignees:
     - lucat1
 
-  - name: LDAP: kepler STARTTLS
+  - name: "LDAP: kepler STARTTLS"
     check: "tcp-ping"
     url: ldap2.teapot.ovh
     port: 389
     assignees:
     - samuelemusiani
 
-  - name: LDAP: kepler TLS
+  - name: "LDAP: kepler TLS"
     check: "tcp-ping"
     url: ldap2.teapot.ovh
     port: 636
     assignees:
     - samuelemusiani
+
+  - name: "Mail: honey SMTP"
+    check: "tcp-ping"
+    url: mail.teapot.ovh
+    port: 25
+    assignees:
+    - lucat1
+
+  - name: "Mail: honey Submission"
+    check: "tcp-ping"
+    url: mail.teapot.ovh
+    port: 587
+    assignees:
+    - lucat1
 
 assignees:
   - lucat1
