@@ -178,7 +178,7 @@
     "timeMonth": 579,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2023-12-26": 899,
+      "2023-12-26": 912,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -312,7 +312,7 @@
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-12-26": 899,
+      "2023-12-26": 912,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -325,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ldap-honey-starttls",
     "status": "up",
-    "uptime": "88.69%",
-    "uptimeDay": "52.12%",
-    "uptimeWeek": "88.69%",
-    "uptimeMonth": "88.69%",
-    "uptimeYear": "88.69%",
+    "uptime": "88.81%",
+    "uptimeDay": "52.53%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
     "time": 134,
     "timeDay": 152,
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-12-26": 619,
+      "2023-12-26": 613,
       "2023-12-25": 71
     }
   },
@@ -346,18 +346,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ldap-honey-tls",
     "status": "up",
-    "uptime": "88.69%",
-    "uptimeDay": "52.12%",
-    "uptimeWeek": "88.69%",
-    "uptimeMonth": "88.69%",
-    "uptimeYear": "88.69%",
+    "uptime": "88.81%",
+    "uptimeDay": "52.53%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
     "time": 133,
     "timeDay": 152,
     "timeWeek": 133,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-12-26": 619,
+      "2023-12-26": 613,
       "2023-12-25": 71
     }
   },
@@ -366,9 +366,9 @@
     "url": "ldap2.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ldap-kepler-starttls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -377,16 +377,18 @@
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-26": 0
+    }
   },
   {
     "name": "LDAP: kepler TLS",
     "url": "ldap2.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ldap-kepler-tls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -395,6 +397,8 @@
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-26": 0
+    }
   }
 ]
