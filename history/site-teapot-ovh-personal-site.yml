@@ -1,7 +1,7 @@
 url: https://teapot.ovh/~luca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-31T09:46:31.776Z
+status: up
+code: 200
+responseTime: 108
+lastUpdated: 2023-12-31T09:48:58.854Z
 startTime: 2023-12-22T09:40:08.537Z
 generator: Upptime <https://github.com/upptime/upptime>
