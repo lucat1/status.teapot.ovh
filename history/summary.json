@@ -267,7 +267,7 @@
     "slug": "site-photos-teapot-ovh",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "95.69%",
+    "uptimeDay": "95.63%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
@@ -277,7 +277,7 @@
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-01-05": 0,
+      "2024-01-05": 1,
       "2024-01-04": 62
     }
   },
@@ -288,8 +288,8 @@
     "slug": "site-upload-teapot-ovh",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "99.20%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.59%",
     "time": 823,
@@ -298,7 +298,7 @@
     "timeMonth": 823,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2024-01-05": 0,
+      "2024-01-05": 1,
       "2024-01-04": 80
     }
   },
@@ -309,7 +309,7 @@
     "slug": "site-dex-teapot-ovh",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "95.70%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.34%",
@@ -319,7 +319,7 @@
     "timeMonth": 829,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-01-05": 0,
+      "2024-01-05": 1,
       "2024-01-04": 61,
       "2023-12-22": 68
     }
