@@ -1,7 +1,7 @@
 url: https://photos.teapot.ovh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-12T14:57:38.777Z
+status: up
+code: 200
+responseTime: 1805
+lastUpdated: 2024-01-12T15:58:31.103Z
 startTime: 2023-12-22T09:40:45.924Z
 generator: Upptime <https://github.com/upptime/upptime>
