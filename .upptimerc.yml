@@ -134,6 +134,27 @@ sites:
     assignees:
     - samuelemusiani
 
+  - name: "DNS: ns-rn-01"
+    check: "tcp-ping"
+    url: ns-rn-01.teapot.ovh
+    port: 53
+    assignees:
+    - lucat1
+
+  - name: "DNS: ns-rn-02"
+    check: "tcp-ping"
+    url: ns-rn-02.teapot.ovh
+    port: 53
+    assignees:
+    - lucat1
+
+  - name: "DNS: ns-bo-01"
+    check: "tcp-ping"
+    url: ns-bo-01.teapot.ovh
+    port: 53
+    assignees:
+    - samuelemusiani
+
 status-website:
   cname: status.teapot.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
