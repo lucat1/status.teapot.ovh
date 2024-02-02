@@ -1,7 +1,7 @@
 url: ns-rn-01.teapot.ovh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-02T11:42:44.790Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2024-02-02T19:07:41.205Z
 startTime: 2024-01-16T10:28:30.936Z
 generator: Upptime <https://github.com/upptime/upptime>
