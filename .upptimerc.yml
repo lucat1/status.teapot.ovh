@@ -138,6 +138,7 @@ sites:
     check: "tcp-ping"
     url: ns-rn-01.teapot.ovh
     port: 53
+    ipv6: true
     assignees:
     - lucat1
 
@@ -145,6 +146,7 @@ sites:
     check: "tcp-ping"
     url: ns-rn-02.teapot.ovh
     port: 53
+    ipv6: true
     assignees:
     - lucat1
 
@@ -152,6 +154,7 @@ sites:
     check: "tcp-ping"
     url: ns-bo-01.teapot.ovh
     port: 53
+    ipv6: true
     assignees:
     - samuelemusiani
 
