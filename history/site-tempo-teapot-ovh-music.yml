@@ -1,7 +1,7 @@
 url: https://tempo.teapot.ovh/tempo/server
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-14T23:57:46.419Z
+status: up
+code: 200
+responseTime: 501
+lastUpdated: 2024-02-15T00:37:33.501Z
 startTime: 2023-12-22T09:40:44.928Z
 generator: Upptime <https://github.com/upptime/upptime>
