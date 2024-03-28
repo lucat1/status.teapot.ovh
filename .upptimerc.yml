@@ -134,6 +134,11 @@ sites:
     assignees:
     - samuelemusiani
 
+  - name: "LDAP: kepler TLS"
+    url: https://calendar.teapot.ovh
+    assignees:
+    - lucat1
+
 status-website:
   cname: status.teapot.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
