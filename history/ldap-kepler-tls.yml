@@ -1,7 +1,7 @@
-url: ldap2.teapot.ovh
+url: https://calendar.teapot.ovh
 status: up
 code: 200
-responseTime: 107
-lastUpdated: 2024-03-28T23:08:15.098Z
+responseTime: 541
+lastUpdated: 2024-03-28T23:08:15.883Z
 startTime: 2023-12-22T09:23:47.931Z
 generator: Upptime <https://github.com/upptime/upptime>
