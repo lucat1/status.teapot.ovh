@@ -134,7 +134,7 @@ sites:
     assignees:
     - samuelemusiani
 
-  - name: "LDAP: kepler TLS"
+  - name: "Calendar"
     url: https://calendar.teapot.ovh
     assignees:
     - lucat1
