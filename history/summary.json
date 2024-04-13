@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-04-13": 609,
+      "2024-04-13": 622,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -324,7 +324,7 @@
     "timeMonth": 443,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-04-13": 609,
+      "2024-04-13": 622,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -553,11 +553,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.teapot.ovh.ico",
     "slug": "site-upload-teapot-ovh",
     "status": "up",
-    "uptime": "93.22%",
+    "uptime": "93.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.94%",
-    "uptimeYear": "93.22%",
+    "uptimeYear": "93.23%",
     "time": 663,
     "timeDay": 794,
     "timeWeek": 642,
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2024-04-13": 609,
+      "2024-04-13": 622,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -723,7 +723,7 @@
     "timeMonth": 0,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-04-13": 609,
+      "2024-04-13": 622,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -975,19 +975,19 @@
     "url": "https://calendar.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.teapot.ovh.ico",
     "slug": "calendar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 881,
-    "timeWeek": 793,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 693,
+    "timeDay": 727,
+    "timeWeek": 765,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 13
     }
   }
 ]
