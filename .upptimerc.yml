@@ -16,13 +16,6 @@ sites:
     assignees:
     - samuelemusiani
 
-  - name: "Host: fern"
-    check: "tcp-ping"
-    url: fern.teapot.ovh
-    port: 2222
-    assignees:
-    - lucat1
-
   - name: "Mail: honey SMTP"
     check: "tcp-ping"
     url: mail.teapot.ovh
@@ -94,17 +87,17 @@ sites:
     assignees:
     - samuelemusiani
 
-  - name: "Site: grafana.teapot.ovh"
-    url: https://grafana.teapot.ovh
-    assignees:
-    - lucat1
-
-  - name: "Site: loki.teapot.ovh"
-    url: https://loki.teapot.ovh
-    headers:
-    - "Authorization: Baisc $LOKI_CREDENTIALS"
-    assignees:
-    - lucat1
+  # - name: "Site: grafana.teapot.ovh"
+  #   url: https://grafana.teapot.ovh
+  #   assignees:
+  #   - lucat1
+  #
+  # - name: "Site: loki.teapot.ovh"
+  #   url: https://loki.teapot.ovh
+  #   headers:
+  #   - "Authorization: Baisc $LOKI_CREDENTIALS"
+  #   assignees:
+  #   - lucat1
 
   - name: "LDAP: honey STARTTLS"
     check: "tcp-ping"
