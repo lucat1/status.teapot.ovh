@@ -1,7 +1,7 @@
 url: https://teapot.ovh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-02T09:44:48.325Z
+status: up
+code: 200
+responseTime: 532
+lastUpdated: 2024-08-02T12:45:41.455Z
 startTime: 2023-12-22T09:40:07.648Z
 generator: Upptime <https://github.com/upptime/upptime>
