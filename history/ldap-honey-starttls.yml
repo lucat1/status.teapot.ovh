@@ -1,7 +1,7 @@
 url: ldap1.teapot.ovh
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2024-08-07T14:07:44.531Z
+lastUpdated: 2024-08-07T16:00:29.951Z
 startTime: 2023-12-22T09:23:44.974Z
 generator: Upptime <https://github.com/upptime/upptime>
