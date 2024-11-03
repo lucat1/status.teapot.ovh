@@ -1,7 +1,7 @@
 url: https://matrix.teapot.ovh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-03T20:56:55.118Z
+status: up
+code: 200
+responseTime: 545
+lastUpdated: 2024-11-03T21:57:11.133Z
 startTime: 2023-12-22T09:40:09.086Z
 generator: Upptime <https://github.com/upptime/upptime>
