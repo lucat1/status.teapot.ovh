@@ -132,6 +132,11 @@ sites:
     assignees:
     - lucat1
 
+  - name: "Vaultwarden"
+    url: https://vault.teapot.ovh
+    assignees:
+    - lucat1
+
 status-website:
   cname: status.teapot.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
