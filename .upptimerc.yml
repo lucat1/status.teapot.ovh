@@ -80,6 +80,11 @@ sites:
     assignees:
     - samuelemusiani
 
+  - name: "Site: pdf.teapot.ovh"
+    url: https://pdf.teapot.ovh
+    assignees:
+    - samuelemusiani
+
   - name: "Site: dex.teapot.ovh"
     url: https://dex.teapot.ovh/auth/ldap/login
     expectedStatusCodes:
