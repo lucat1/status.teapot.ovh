@@ -1,7 +1,7 @@
 url: https://dex.teapot.ovh/auth/ldap/login
 status: up
 code: 400
-responseTime: 362
-lastUpdated: 2025-02-02T23:08:44.793Z
+responseTime: 625
+lastUpdated: 2025-02-03T23:09:19.977Z
 startTime: 2023-12-22T09:40:48.146Z
 generator: Upptime <https://github.com/upptime/upptime>
