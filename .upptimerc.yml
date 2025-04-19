@@ -65,11 +65,6 @@ sites:
     assignees:
     - lucat1
 
-  - name: "Site: tempo.teapot.ovh (music)"
-    url: https://tempo.teapot.ovh/tempo/server
-    assignees:
-    - lucat1
-
   - name: "Site: photos.teapot.ovh"
     url: https://photos.teapot.ovh
     assignees:
