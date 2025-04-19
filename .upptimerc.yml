@@ -9,6 +9,13 @@ sites:
     assignees:
     - lucat1
 
+  - name: "Host: picione"
+    check: "tcp-ping"
+    url: picione.teapot.ovh
+    port: 2223
+    assignees:
+    - lucat1
+
   - name: "Host: kepler"
     check: "tcp-ping"
     url: kepler.teapot.ovh
@@ -42,12 +49,6 @@ sites:
 
   - name: "Matrix: server"
     url: https://matrix.teapot.ovh
-    assignees:
-    - lucat1
-    - samuelemusiani
-
-  - name: "Matrix: element"
-    url: https://element.teapot.ovh
     assignees:
     - lucat1
     - samuelemusiani
