@@ -1,7 +1,7 @@
 url: https://music.teapot.ovh
-status: down
-code: 502
-responseTime: 3421
-lastUpdated: 2025-04-24T23:10:44.219Z
+status: up
+code: 200
+responseTime: 1242
+lastUpdated: 2025-04-25T22:44:17.412Z
 startTime: 2023-12-22T09:40:43.727Z
 generator: Upptime <https://github.com/upptime/upptime>
