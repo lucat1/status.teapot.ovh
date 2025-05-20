@@ -100,34 +100,6 @@ sites:
   #   assignees:
   #   - lucat1
 
-  - name: "LDAP: honey STARTTLS"
-    check: "tcp-ping"
-    url: ldap1.teapot.ovh
-    port: 389
-    assignees:
-    - lucat1
-
-  - name: "LDAP: honey TLS"
-    check: "tcp-ping"
-    url: ldap1.teapot.ovh
-    port: 636
-    assignees:
-    - lucat1
-
-  - name: "LDAP: kepler STARTTLS"
-    check: "tcp-ping"
-    url: ldap2.teapot.ovh
-    port: 389
-    assignees:
-    - samuelemusiani
-
-  - name: "LDAP: kepler TLS"
-    check: "tcp-ping"
-    url: ldap2.teapot.ovh
-    port: 636
-    assignees:
-    - samuelemusiani
-
   - name: "Calendar"
     url: https://calendar.teapot.ovh
     assignees:
