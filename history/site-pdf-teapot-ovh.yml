@@ -1,7 +1,7 @@
 url: https://pdf.teapot.ovh
-status: down
-code: 502
-responseTime: 3477
-lastUpdated: 2025-12-22T11:58:01.106Z
+status: up
+code: 200
+responseTime: 514
+lastUpdated: 2025-12-22T12:33:40.020Z
 startTime: 2025-01-31T15:36:08.565Z
 generator: Upptime <https://github.com/upptime/upptime>
