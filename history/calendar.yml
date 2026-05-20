@@ -1,7 +1,7 @@
 url: https://calendar.teapot.ovh
-status: up
-code: 200
-responseTime: 2217
-lastUpdated: 2026-05-19T23:55:05.386Z
+status: down
+code: 503
+responseTime: 10690
+lastUpdated: 2026-05-20T08:03:27.959Z
 startTime: 2024-03-31T10:09:11.641Z
 generator: Upptime <https://github.com/upptime/upptime>
