@@ -4,16 +4,16 @@
     "url": "honey.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-honey",
-    "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.97%",
+    "status": "up",
+    "uptime": "99.02%",
+    "uptimeDay": "86.76%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "98.93%",
     "time": 124,
-    "timeDay": 137,
-    "timeWeek": 136,
-    "timeMonth": 128,
+    "timeDay": 150,
+    "timeWeek": 139,
+    "timeMonth": 129,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2025-08-19": 1339,
@@ -25,7 +25,7 @@
       "2025-12-27": 63,
       "2025-12-29": 109,
       "2026-03-07": 45,
-      "2026-05-26": 2
+      "2026-05-26": 191
     }
   },
   {
@@ -311,7 +311,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.teapot.ovh.ico",
     "slug": "site-upload-teapot-ovh",
     "status": "down",
-    "uptime": "43.83%",
+    "uptime": "43.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -322,7 +322,7 @@
     "timeMonth": 3627,
     "timeYear": 3573,
     "dailyMinutesDown": {
-      "2026-05-26": 870,
+      "2026-05-26": 1060,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
