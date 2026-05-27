@@ -4,11 +4,11 @@
     "url": "honey.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-honey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "86.76%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "98.93%",
     "time": 124,
     "timeDay": 153,
@@ -25,7 +25,8 @@
       "2025-12-27": 63,
       "2025-12-29": 109,
       "2026-03-07": 45,
-      "2026-05-26": 191
+      "2026-05-26": 191,
+      "2026-05-27": 20
     }
   },
   {
@@ -33,11 +34,11 @@
     "url": "picione.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-picione",
-    "status": "up",
-    "uptime": "92.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
+    "status": "down",
+    "uptime": "92.34%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.94%",
     "time": 125,
     "timeDay": 140,
@@ -47,7 +48,8 @@
     "dailyMinutesDown": {
       "2025-11-04": 45,
       "2026-03-07": 43,
-      "2026-05-07": 227
+      "2026-05-07": 227,
+      "2026-05-27": 16
     }
   },
   {
@@ -85,13 +87,13 @@
     "url": "mail.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-honey-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.88%",
-    "time": 124,
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.87%",
+    "time": 125,
     "timeDay": 142,
     "timeWeek": 134,
     "timeMonth": 128,
@@ -102,7 +104,8 @@
       "2026-01-29": 114,
       "2026-01-30": 65,
       "2026-03-07": 42,
-      "2026-05-07": 223
+      "2026-05-07": 223,
+      "2026-05-27": 12
     }
   },
   {
@@ -110,11 +113,11 @@
     "url": "mail.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-honey-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.88%",
     "time": 125,
     "timeDay": 141,
@@ -127,7 +130,8 @@
       "2026-01-29": 114,
       "2026-01-30": 65,
       "2026-03-07": 41,
-      "2026-05-07": 219
+      "2026-05-07": 219,
+      "2026-05-27": 8
     }
   },
   {
@@ -135,10 +139,10 @@
     "url": "https://teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/teapot.ovh.ico",
     "slug": "site-teapot-ovh",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "98.88%",
     "time": 527,
@@ -158,7 +162,8 @@
       "2025-12-29": 109,
       "2026-01-12": 101,
       "2026-03-07": 40,
-      "2026-05-07": 218
+      "2026-05-07": 218,
+      "2026-05-27": 3
     }
   },
   {
@@ -229,7 +234,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sliding.teapot.ovh.ico",
     "slug": "matrix-sliding-sync",
     "status": "down",
-    "uptime": "76.77%",
+    "uptime": "76.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -311,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.teapot.ovh.ico",
     "slug": "site-upload-teapot-ovh",
     "status": "down",
-    "uptime": "43.80%",
+    "uptime": "43.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -322,7 +327,7 @@
     "timeMonth": 3619,
     "timeYear": 3573,
     "dailyMinutesDown": {
-      "2026-05-27": 156,
+      "2026-05-27": 636,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -758,12 +763,12 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.28%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "98.86%",
     "time": 850,
     "timeDay": 2181,
-    "timeWeek": 2853,
+    "timeWeek": 1873,
     "timeMonth": 1847,
     "timeYear": 898,
     "dailyMinutesDown": {
