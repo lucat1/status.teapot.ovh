@@ -234,7 +234,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sliding.teapot.ovh.ico",
     "slug": "matrix-sliding-sync",
     "status": "down",
-    "uptime": "76.82%",
+    "uptime": "76.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -327,7 +327,7 @@
     "timeMonth": 3605,
     "timeYear": 3573,
     "dailyMinutesDown": {
-      "2026-05-29": 111,
+      "2026-05-29": 147,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
