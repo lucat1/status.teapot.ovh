@@ -1,7 +1,7 @@
 url: https://vault.teapot.ovh
-status: down
-code: 503
-responseTime: 294
-lastUpdated: 2026-05-29T00:03:31.729Z
+status: up
+code: 200
+responseTime: 555
+lastUpdated: 2026-05-29T01:50:23.914Z
 startTime: 2024-11-04T23:02:16.181Z
 generator: Upptime <https://github.com/upptime/upptime>
