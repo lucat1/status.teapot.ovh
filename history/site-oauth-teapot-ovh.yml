@@ -1,7 +1,7 @@
 url: https://oauth.teapot.ovh/auth/ldap/login
-status: down
-code: 503
-responseTime: 467
-lastUpdated: 2026-05-29T00:03:16.610Z
+status: up
+code: 400
+responseTime: 970
+lastUpdated: 2026-05-29T01:50:19.071Z
 startTime: 2026-04-06T17:11:48.860Z
 generator: Upptime <https://github.com/upptime/upptime>
