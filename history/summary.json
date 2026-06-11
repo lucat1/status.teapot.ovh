@@ -12,7 +12,7 @@
     "uptimeYear": "98.89%",
     "time": 124,
     "timeDay": 0,
-    "timeWeek": 125,
+    "timeWeek": 122,
     "timeMonth": 130,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -35,14 +35,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-picione",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.90%",
     "time": 125,
     "timeDay": 0,
-    "timeWeek": 125,
+    "timeWeek": 121,
     "timeMonth": 130,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -65,7 +65,7 @@
     "uptimeYear": "99.18%",
     "time": 141,
     "timeDay": 0,
-    "timeWeek": 139,
+    "timeWeek": 134,
     "timeMonth": 143,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
     "uptimeYear": "99.84%",
     "time": 125,
     "timeDay": 0,
-    "timeWeek": 125,
+    "timeWeek": 122,
     "timeMonth": 129,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -113,16 +113,16 @@
     "url": "mail.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-honey-submission",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.82%",
     "time": 125,
-    "timeDay": 0,
-    "timeWeek": 124,
-    "timeMonth": 129,
+    "timeDay": 169,
+    "timeWeek": 128,
+    "timeMonth": 130,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2025-11-04": 42,
@@ -132,7 +132,7 @@
       "2026-03-07": 41,
       "2026-05-07": 219,
       "2026-05-27": 198,
-      "2026-06-11": 3
+      "2026-06-11": 81
     }
   },
   {
@@ -148,7 +148,7 @@
     "uptimeYear": "98.85%",
     "time": 540,
     "timeDay": 3719,
-    "timeWeek": 1020,
+    "timeWeek": 1083,
     "timeMonth": 743,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -180,7 +180,7 @@
     "uptimeYear": "98.88%",
     "time": 158,
     "timeDay": 417,
-    "timeWeek": 520,
+    "timeWeek": 497,
     "timeMonth": 550,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
     "uptimeYear": "98.88%",
     "time": 539,
     "timeDay": 423,
-    "timeWeek": 581,
+    "timeWeek": 553,
     "timeMonth": 597,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -260,7 +260,7 @@
     "uptimeYear": "98.89%",
     "time": 952,
     "timeDay": 1442,
-    "timeWeek": 1742,
+    "timeWeek": 1719,
     "timeMonth": 1815,
     "timeYear": 956,
     "dailyMinutesDown": {
@@ -291,7 +291,7 @@
     "uptimeYear": "99.16%",
     "time": 663,
     "timeDay": 689,
-    "timeWeek": 786,
+    "timeWeek": 741,
     "timeMonth": 803,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -324,11 +324,11 @@
     "uptimeYear": "0.00%",
     "time": 3496,
     "timeDay": 3976,
-    "timeWeek": 3675,
+    "timeWeek": 3676,
     "timeMonth": 3558,
     "timeYear": 3583,
     "dailyMinutesDown": {
-      "2026-06-11": 17,
+      "2026-06-11": 96,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -704,11 +704,11 @@
     "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.03%",
+    "uptimeMonth": "74.21%",
     "uptimeYear": "96.66%",
     "time": 906,
     "timeDay": 737,
-    "timeWeek": 785,
+    "timeWeek": 781,
     "timeMonth": 752,
     "timeYear": 906,
     "dailyMinutesDown": {
@@ -751,7 +751,7 @@
     "uptimeYear": "99.88%",
     "time": 580,
     "timeDay": 472,
-    "timeWeek": 571,
+    "timeWeek": 533,
     "timeMonth": 578,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -772,7 +772,7 @@
     "uptimeYear": "98.86%",
     "time": 890,
     "timeDay": 1588,
-    "timeWeek": 1809,
+    "timeWeek": 1758,
     "timeMonth": 2117,
     "timeYear": 947,
     "dailyMinutesDown": {
@@ -804,7 +804,7 @@
     "uptimeYear": "98.91%",
     "time": 556,
     "timeDay": 605,
-    "timeWeek": 731,
+    "timeWeek": 725,
     "timeMonth": 682,
     "timeYear": 595,
     "dailyMinutesDown": {
