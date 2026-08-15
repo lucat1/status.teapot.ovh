@@ -27,7 +27,7 @@
       "2026-03-07": 45,
       "2026-05-26": 191,
       "2026-05-27": 210,
-      "2026-08-15": 1225,
+      "2026-08-15": 1247,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -386,7 +386,7 @@
     "timeMonth": 3464,
     "timeYear": 3587,
     "dailyMinutesDown": {
-      "2026-08-15": 1226,
+      "2026-08-15": 1247,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -797,22 +797,22 @@
     "url": "https://oauth.teapot.ovh/auth/ldap/login",
     "icon": "https://icons.duckduckgo.com/ip3/oauth.teapot.ovh.ico",
     "slug": "site-oauth-teapot-ovh",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
-    "time": 590,
-    "timeDay": 577,
-    "timeWeek": 669,
-    "timeMonth": 598,
-    "timeYear": 590,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.90%",
+    "time": 589,
+    "timeDay": 542,
+    "timeWeek": 647,
+    "timeMonth": 594,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2026-05-29": 110,
       "2026-05-28": 5,
       "2026-07-19": 58,
-      "2026-08-15": 1
+      "2026-08-15": 22
     }
   },
   {
@@ -853,15 +853,15 @@
     "url": "https://vault.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/vault.teapot.ovh.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.90%",
-    "time": 590,
-    "timeDay": 627,
-    "timeWeek": 716,
+    "time": 591,
+    "timeDay": 647,
+    "timeWeek": 713,
     "timeMonth": 693,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -878,7 +878,7 @@
       "2026-03-07": 38,
       "2026-05-29": 107,
       "2026-07-19": 57,
-      "2026-08-15": 1
+      "2026-08-15": 22
     }
   }
 ]
