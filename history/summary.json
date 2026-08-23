@@ -23,7 +23,7 @@
       "2026-03-07": 45,
       "2026-05-26": 191,
       "2026-05-27": 210,
-      "2026-08-23": 666,
+      "2026-08-23": 680,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -333,9 +333,9 @@
     "slug": "site-photos-teapot-ovh",
     "status": "down",
     "uptime": "96.65%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.20%",
     "time": 708,
     "timeDay": 725,
@@ -353,7 +353,7 @@
       "2025-11-02": 312,
       "2026-01-07": 24,
       "2026-05-01": 51,
-      "2026-08-23": 10
+      "2026-08-23": 24
     }
   },
   {
@@ -373,7 +373,7 @@
     "timeMonth": 3478,
     "timeYear": 3589,
     "dailyMinutesDown": {
-      "2026-08-23": 667,
+      "2026-08-23": 680,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -745,17 +745,17 @@
     "url": "https://pdf.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.teapot.ovh.ico",
     "slug": "site-pdf-teapot-ovh",
-    "status": "down",
+    "status": "up",
     "uptime": "97.81%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.13%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "97.12%",
     "time": 875,
-    "timeDay": 680,
-    "timeWeek": 769,
-    "timeMonth": 779,
-    "timeYear": 855,
+    "timeDay": 865,
+    "timeWeek": 804,
+    "timeMonth": 788,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-09-25": 66,
       "2025-09-24": 12,
@@ -776,7 +776,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 552,
-      "2026-08-23": 1
+      "2026-08-23": 14
     }
   },
   {
