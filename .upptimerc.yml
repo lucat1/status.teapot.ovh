@@ -2,12 +2,12 @@ owner: lucat1
 repo: status.teapot.ovh
 
 sites:
-  - name: "Host: honey"
-    check: "tcp-ping"
-    url: honey.teapot.ovh
-    port: 2222
-    assignees:
-      - lucat1
+  # - name: "Host: honey"
+  #   check: "tcp-ping"
+  #   url: honey.teapot.ovh
+  #   port: 2222
+  #   assignees:
+  #     - lucat1
 
   - name: "Host: picione"
     check: "tcp-ping"
