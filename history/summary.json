@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-picione",
     "status": "up",
-    "uptime": "94.53%",
+    "uptime": "94.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -64,10 +64,10 @@
     "url": "mail.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-honey-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 127,
@@ -83,7 +83,8 @@
       "2026-05-07": 223,
       "2026-05-27": 202,
       "2026-08-06": 431,
-      "2026-08-05": 5
+      "2026-08-05": 5,
+      "2026-11-14": 1
     }
   },
   {
@@ -202,7 +203,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sliding.teapot.ovh.ico",
     "slug": "matrix-sliding-sync",
     "status": "down",
-    "uptime": "80.51%",
+    "uptime": "80.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -229,7 +230,7 @@
     "timeDay": 1670,
     "timeWeek": 1885,
     "timeMonth": 1969,
-    "timeYear": 1410,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-12-25": 146,
       "2025-12-27": 61,
@@ -247,7 +248,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.teapot.ovh.ico",
     "slug": "site-photos-teapot-ovh",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -256,7 +257,7 @@
     "timeDay": 879,
     "timeWeek": 909,
     "timeMonth": 936,
-    "timeYear": 845,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2026-01-07": 24,
       "2026-05-01": 51,
@@ -287,7 +288,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.teapot.ovh.ico",
     "slug": "site-upload-teapot-ovh",
     "status": "down",
-    "uptime": "36.75%",
+    "uptime": "36.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -296,9 +297,10 @@
     "timeDay": 3438,
     "timeWeek": 3556,
     "timeMonth": 3547,
-    "timeYear": 3624,
+    "timeYear": 3630,
     "dailyMinutesDown": {
-      "2026-11-13": 252,
+      "2026-11-14": 85,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -661,8 +663,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -671,7 +672,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdf.teapot.ovh.ico",
     "slug": "site-pdf-teapot-ovh",
     "status": "up",
-    "uptime": "95.64%",
+    "uptime": "95.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -756,7 +757,7 @@
     "timeDay": 1486,
     "timeWeek": 1974,
     "timeMonth": 2000,
-    "timeYear": 1462,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2025-12-25": 146,
       "2025-12-27": 61,
