@@ -1,7 +1,7 @@
 url: mail.teapot.ovh
-status: up
-code: 200
-responseTime: 137
-lastUpdated: 2026-11-19T03:55:26.261Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-11-19T20:35:23.814Z
 startTime: 2023-12-22T09:23:48.819Z
 generator: Upptime <https://github.com/upptime/upptime>
