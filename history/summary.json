@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-picione",
     "status": "up",
-    "uptime": "94.63%",
+    "uptime": "94.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -64,16 +64,16 @@
     "url": "mail.teapot.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-honey-smtp",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "82.64%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "97.90%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "97.89%",
     "uptimeYear": "99.59%",
     "time": 127,
     "timeDay": 136,
     "timeWeek": 134,
-    "timeMonth": 135,
+    "timeMonth": 136,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2026-01-26": 165,
@@ -89,7 +89,8 @@
       "2026-11-20": 111,
       "2026-11-19": 205,
       "2026-11-23": 242,
-      "2026-11-22": 7
+      "2026-11-22": 7,
+      "2026-11-24": 1
     }
   },
   {
@@ -134,7 +135,7 @@
     "time": 593,
     "timeDay": 758,
     "timeWeek": 669,
-    "timeMonth": 665,
+    "timeMonth": 661,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-12-25": 146,
@@ -164,7 +165,7 @@
     "time": 309,
     "timeDay": 581,
     "timeWeek": 506,
-    "timeMonth": 585,
+    "timeMonth": 579,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-12-25": 146,
@@ -194,7 +195,7 @@
     "timeDay": 1020,
     "timeWeek": 726,
     "timeMonth": 686,
-    "timeYear": 585,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2025-12-25": 146,
       "2025-12-27": 62,
@@ -214,7 +215,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sliding.teapot.ovh.ico",
     "slug": "matrix-sliding-sync",
     "status": "down",
-    "uptime": "80.69%",
+    "uptime": "80.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -241,7 +242,7 @@
     "timeDay": 2039,
     "timeWeek": 1847,
     "timeMonth": 1903,
-    "timeYear": 1442,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2025-12-25": 146,
       "2025-12-27": 61,
@@ -270,7 +271,7 @@
     "timeDay": 1087,
     "timeWeek": 1034,
     "timeMonth": 953,
-    "timeYear": 860,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2026-01-07": 24,
       "2026-05-01": 51,
@@ -301,7 +302,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.teapot.ovh.ico",
     "slug": "site-upload-teapot-ovh",
     "status": "down",
-    "uptime": "36.41%",
+    "uptime": "36.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -309,10 +310,11 @@
     "time": 3586,
     "timeDay": 3593,
     "timeWeek": 3641,
-    "timeMonth": 3582,
+    "timeMonth": 3584,
     "timeYear": 3634,
     "dailyMinutesDown": {
-      "2026-11-23": 291,
+      "2026-11-24": 108,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -675,8 +677,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -685,7 +686,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdf.teapot.ovh.ico",
     "slug": "site-pdf-teapot-ovh",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -693,8 +694,8 @@
     "time": 870,
     "timeDay": 922,
     "timeWeek": 797,
-    "timeMonth": 835,
-    "timeYear": 830,
+    "timeMonth": 832,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2025-12-22": 36,
       "2026-01-07": 23,
@@ -744,7 +745,7 @@
     "time": 609,
     "timeDay": 719,
     "timeWeek": 635,
-    "timeMonth": 633,
+    "timeMonth": 634,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2026-05-29": 110,
@@ -769,8 +770,8 @@
     "time": 1343,
     "timeDay": 2220,
     "timeWeek": 1975,
-    "timeMonth": 2030,
-    "timeYear": 1499,
+    "timeMonth": 2037,
+    "timeYear": 1501,
     "dailyMinutesDown": {
       "2025-12-25": 146,
       "2025-12-27": 61,
@@ -799,8 +800,8 @@
     "time": 662,
     "timeDay": 942,
     "timeWeek": 786,
-    "timeMonth": 780,
-    "timeYear": 701,
+    "timeMonth": 784,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-12-25": 146,
       "2025-12-27": 60,
